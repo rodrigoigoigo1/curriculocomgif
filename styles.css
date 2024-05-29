@@ -1,0 +1,7 @@
+body {
+    background-image: url(imagem.gif);
+    background-repeat: no-repeat;
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Faz o background ficar fixo ao rolar a página */ ;
+}

@@ -1,1 +1,1 @@
-# curriculocomgif
+# curriculo
